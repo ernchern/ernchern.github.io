@@ -61,7 +61,7 @@ p { font-size: 1.05rem; margin-bottom: 1rem; }
 }
 .hero-text { flex: 1.5; }
 .hero-image { flex: 1; }
-.role { font-size: 1.2rem; font-weight: 600; font-family: 'Inter', sans-serif; color: var(--text-dark); text-transform: uppercase; letter-spacing: 0.05em; border-bottom: 2px solid var(--accent-blue); padding-bottom: 0.5rem; display: inline-block; margin-bottom: 2rem; }
+.role { font-size: 1.2rem; font-weight: 600; font-family: 'Inter', sans-serif; color: var(--text-dark); letter-spacing: 0.05em; border-bottom: 2px solid var(--accent-blue); padding-bottom: 0.5rem; display: inline-block; margin-bottom: 2rem; }
 .bio { font-size: 1.15rem; max-width: 90%; color: #333; }
 
 /* Transition Title Section */
